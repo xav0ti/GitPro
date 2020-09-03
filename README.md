@@ -1,2 +1,2 @@
 # GitPro
-ComC
+Como funcionan los comando de Git
